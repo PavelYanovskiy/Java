@@ -1,0 +1,26 @@
+{"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
+
+String[] parts = str.split(",")
+[1:-1]
+str.substring(1, str.length() - 2)
+str.trim("\"")
+str.replace("\"", "")
+
+SELECT * FROM students WHERE
+name = "Ivanov" AND country = "Russia" AND city = "Moscow"
+
+
+String sql = "SELECT * FROM students WHERE ";
+
+try ()
+
+try with resources
+
+private static тип_возврата имя_функции (тип имя, тип имя, тип имя) {
+}
+
+null
+налл
+
+Exception
+	.getMessage()
